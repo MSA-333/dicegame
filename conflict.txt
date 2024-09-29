@@ -1,1 +1,2 @@
 Changing by feature1
+Changing by feature2
